@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">episode 2</string>
+    <string name="welcome">Welcome to Episode 2</string>
+    <string name="warning">light to jayegi</string>
+    <string name="info">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam aspernatur consectetur cumque delectus distinctio fugit minima, nobis numquam qui quo, repudiandae rerum voluptatem! Atque debitis eveniet fugit in nemo praesentium?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
